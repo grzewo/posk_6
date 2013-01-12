@@ -1,7 +1,16 @@
-Program na poczatku ma sprawdzic identyfikacje uzytkownika, 
-nastepnie sprawdzic obecnosc dysku zewnetrzenego.
+1. Lokalizuje pendrive'a					Bash
+		a)brak pedrive'a						Bash
+		b)pendrive jest za maly				Bash
+2. Zaczyna kopiowac pliki do repo		Bash
+3. I jednoczesnie je usuwa					Python
+		c)potrzebne upawnienia admina		C
+4. Konczy kopiowac i usuwac pliki		
+5. Wyswietla komunikat						Bash
 
-Kolejnym krokiem bedzie zrobienie czegos na tym usb.
 
-Jeszcze nie wiem czego - zamontowanie jakiegos fajnego systemu plikow
-albo zmniejszenie partycji - w kazdym razie jako root.
+
+
+
+
+
+
